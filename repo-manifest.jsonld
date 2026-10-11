@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/tiangolo/sandbox/commit/3dfd81eba4f89f213c4779453dd3a59f134c8d11",
       "git:hexsha": "3dfd81eba4f89f213c4779453dd3a59f134c8d11",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
